@@ -2,7 +2,7 @@
 
 A Raspberry Pi Pico robotics learning guide using MicroPython and the Picozero library.
 
-This repository is designed for beginners who want to learn robotics and automation through small daily practice (10–20 minutes per day) and hands-on coding.
+This repository is designed for beginners who want to learn robotics and automation through small daily practice (20-30 minutes per day) and hands-on coding.
 
 ---
 
