@@ -28,12 +28,18 @@ Instead of heavy theory, you will:
 - Build real robotics projects step by step
 
 ---
-
 ## 📚 Learning Path
 
 Follow the folders in order:
 
 ## 📚 Learning Path
 
-Follow the folders in order:
+Click on each module to start learning:
+
+- 🧠 [00 - Fundamentals](00-fundamentals/)
+- ⚙️ [01 - PicoZero Basics](01-picozero-basics/)
+- 🌡️ [02 - Sensors](02-sensors/)
+- 🔧 [03 - Actuators](03-actuators/)
+- 🤖 [04 - Robot Logic](04-robot-logic/)
+- 🚀 [10 - Projects](10-projects/)
 
