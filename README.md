@@ -1,7 +1,6 @@
 # Pico Robotics Lab 🤖
 
-A Raspberry Pi Pico robotics learning guide using MicroPython and the Picozero library.
-
+A hands-on robotics learning guide using Raspberry Pi Pico, MicroPython, and the Picozero library.
 This repository is designed for beginners who want to learn robotics and automation through small daily practice (20-30 minutes per day) and hands-on coding.
 
 ---
@@ -30,10 +29,6 @@ Instead of heavy theory, you will:
 ---
 ## 📚 Learning Path
 
-Follow the folders in order:
-
-## 📚 Learning Path
-
 Click on each module to start learning:
 
 - 🧠 [00 - Fundamentals](00-fundamentals/)
@@ -43,3 +38,10 @@ Click on each module to start learning:
 - 🤖 [04 - Robot Logic](04-robot-logic/)
 - 🚀 [10 - Projects](10-projects/)
 
+---
+
+## 🙏 Acknowledgements
+
+This project is built using the amazing **Picozero** library, which makes controlling hardware on the Raspberry Pi Pico much simpler for beginners.
+
+- 🔗 https://github.com/RaspberryPi/picozero
