@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/status-work%20in%20progress-yellow)
 # Pico Robotics Lab 🤖
 
 A hands-on robotics learning guide using Raspberry Pi Pico, MicroPython, and the Picozero library.
